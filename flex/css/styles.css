@@ -2,7 +2,7 @@
 
 /* 1 */
 body {
-  background-image: url("../images/pink-flowers.png");
+  background-image: url("../../common/images/pink-flowers.png");
   background-color: #b4b4b4;
   font-family: "Roboto", Arial, Helvetica, sans-serif;
   font-weight: 400;
@@ -132,7 +132,7 @@ body {
 
 /* 10 */
 .footer__line {
-  background: url("../images/back.png") no-repeat 0 50%;
+  background: url("../../common/images/back.png") no-repeat 0 50%;
   background-size: 100%;
 }
 
