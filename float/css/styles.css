@@ -50,13 +50,6 @@ body {
 }
 
 /* 10 */
-.article {
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-}
-
-/* 10 */
 .article__heading {
   color: #a11414;
   font-size: 1.5rem;
