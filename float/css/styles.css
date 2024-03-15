@@ -44,12 +44,6 @@ body {
 }
 
 /* 10 */
-.section--flx {
-  display: flex;
-  gap: 3px;
-}
-
-/* 10 */
 .article__heading {
   color: #a11414;
   font-size: 1.5rem;
@@ -87,7 +81,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   border-radius: 2px 15px;
   padding: 29px 26px;
-  flex-shrink: 0;
+  float: right;
 }
 
 /* 10 */
