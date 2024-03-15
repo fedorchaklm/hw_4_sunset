@@ -11,22 +11,17 @@ body {
 /* 10 */
 .wrapper {
   width: 89%;
-  margin: 0 auto 30px;
+  margin: 0 auto;
   background-color: #fff;
-  padding: 5.5% 3% 2%;
-}
-
-/* 10 */
-.header {
-  display: flex;
-  flex-direction: column;
-  gap: 46px;
+  padding: 0 3%;
 }
 
 /* 10 */
 .header__heading {
   color: #a11414;
   font-size: 2rem;
+  padding-top: 96px;
+  margin-bottom: 46px;
 }
 
 /* 10 */
