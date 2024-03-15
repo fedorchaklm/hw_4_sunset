@@ -10,9 +10,6 @@ body {
 
 /* 10 */
 .wrapper {
-  display: flex;
-  flex-direction: column;
-  gap: 57px;
   width: 89%;
   margin: 0 auto 30px;
   background-color: #fff;
