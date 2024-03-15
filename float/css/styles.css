@@ -105,6 +105,13 @@ body {
   text-decoration: underline;
 }
 
+/* 11 */
+.section--flt:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 /* 10 */
 .footer {
   padding: 0 7.5% 18px;
