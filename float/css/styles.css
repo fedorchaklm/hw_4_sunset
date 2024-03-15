@@ -100,9 +100,9 @@ body {
 
 /* 20 */
 .nav__link:hover {
-  text-decoration: none;
   color: #a11414;
   text-decoration: underline;
+  font-weight: 700;
 }
 
 /* 11 */
